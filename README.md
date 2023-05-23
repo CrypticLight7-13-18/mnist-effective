@@ -1,1 +1,2 @@
 # mnist-effective
+This repository is going to contain all the projects that i have done on standard datasets like the MNIST Image Net and others. Basically just a buch of beginner projects stacked together purelu for the purpose of learning more about ML
